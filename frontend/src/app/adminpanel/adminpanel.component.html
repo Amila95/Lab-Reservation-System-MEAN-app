@@ -1,0 +1,56 @@
+<form [formGroup]="Resevation">
+  <br />
+  <div class="row">
+    <div class="col-md-4">
+      <input formControlName="date" type="date">
+    </div>
+    <div class="col-md-5">
+      <div class="row">
+        <div class="col-md-3">
+          <label>Select Lab</label>
+        </div>
+        <div class="col-md-6">
+          <select id="lab_name" name="lab_name" [(ngModel)]="lab_name" class="form-control" formControlName="lab_name">
+            <option value="A Lab">Lab A</option>
+            <option value="B Lab">Lab B</option>
+            <option value="C Lab">Lab C</option>
+          </select>
+        </div>
+
+      </div>
+
+    </div>
+    <div class="col-md-2 ">
+      <button class="btn btn-primary" (click)="get_resevation()">Select</button>
+
+    </div>
+    <div class="col-md-1 ">
+      <button class="btn btn-primary" type="button" onclick="window.print()">Download</button>
+    </div>
+  </div>
+  
+</form>
+<br />
+<div *ngFor="let lab of messageList">
+  <div class=" box">
+    <ul class="list-group">
+      
+        <li class="list-group-item">
+          lab In : {{lab.in_time}}<br />
+          lab Out: {{lab.out_time}}<br />
+          Reason: {{lab.reason}}
+
+        </li>
+     
+
+
+
+    </ul>
+
+  </div>
+  <br />
+
+
+</div>
+
+

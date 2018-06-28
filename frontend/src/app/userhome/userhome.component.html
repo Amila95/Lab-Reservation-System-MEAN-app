@@ -1,0 +1,62 @@
+<div class="row">
+  <div class="col-md-3">
+    <br />
+    <div class="box1">
+      <form action="">
+        <input type="radio" checked="checked" value="male" name="gender" (change)="listlabs()"> All<br />
+        Seat <br>
+
+        <input type="radio" value=25 name="gender" (change)="radioChange(25)"> 25<br>
+        <input type="radio" value=35 name="gender" (change)="radioChange(35)"> 35<br>
+        <input type="radio" value=40 name="gender" (change)="radioChange(40)"> 40<br>
+        <br />
+        Type<br>
+
+        <input type="radio" value="Lecture" name="gender" (change)="radioChangeType('Lecture')"> Lectures<br>
+        <input type="radio" value="Praticals" name="gender" (change)="radioChangeType('Praticals')"> Praticals<br>
+        <br />
+        Condition<br>
+
+        <input type="radio" value=25 name="gender" (change)="radioChangecondition('AC')"> AC<br>
+        <input type="radio" value=35 name="gender" (change)="radioChangecondition('Non AC')"> NON AC<br>
+
+      </form>
+    </div>
+  </div>
+  <div class="col-md-8">
+    <div *ngFor="let lab of messageList">
+      <ul>
+        <br />
+        <div class="box">
+          <li>
+            <p class="lab_title" style="font-size:25px;font-family:verdana">{{lab.lab_name}}</p>
+
+            <img style="float:left;" src={{lab.image}} width="150" height="100" />
+            <div class="text">
+              Seat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;{{lab.seat}}<br />
+              Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:{{lab.Type}}<br />
+              Condition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;{{lab.condition}}
+            </div>
+            <button type="button" class="btn btn-primary" (click)="moveToResevation(lab)">Visit</button>
+
+
+          </li>
+
+        </div>
+
+
+
+
+
+
+
+
+      </ul>
+
+    </div>
+  </div>
+    
+
+</div>
+
+

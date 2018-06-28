@@ -1,0 +1,123 @@
+<div class="container">
+  <div class="row">
+    
+    <div class="col-sm-8">
+      
+        <br />
+        <div class="row">
+          <div class="col-xs-12 col-12 col-md-4 form-group">
+            <input type="text"
+                   class="form-control"
+                   #dp="bsDatepicker"
+                   bsDatepicker
+                   [bsValue]="bsValue"
+                   [(ngModel)]="pickdate"
+                   (change)="resavation_checkbydate(pickdate)">
+          </div>
+          <div class="col-xs-12 col-12 col-md-3 form-group">
+            <button class="btn btn-primary" (click)="resavation_checkbydate(pickdate)" [attr.aria-expanded]="dp.isOpen">Search</button>
+
+          </div>
+        </div>
+
+
+
+        <div *ngFor="let lab of messageList">
+
+          <div class=" box">
+            <ul class="list-group">
+              <span *ngIf="lab.lab_name ==id">
+                <li class="list-group-item">
+                  In Time : {{lab.in_time}}<br />
+                  Off Time: {{lab.out_time}}<br />
+                  Reason: {{lab.reason}}
+
+                </li>
+              </span>
+
+
+
+
+            </ul>
+            
+          </div>
+          <br />
+
+        
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <br />
+      <br />
+      <br />
+      <div class="box1">
+        <div class="col-sm-6">
+
+
+          <form [formGroup]="ReservationForm">
+            <br />
+            <div class="row">
+              <div class="col-sm-6">
+                <p>Revesion Date</p>
+              </div>
+              <div class="col-sm-6">
+                <input formControlName="date" type="date">
+              </div>
+              
+            </div>
+            <div class="row">
+              <div class="col-sm-6">
+                <p>In Time</p>
+              </div>
+              <div class="col-sm-6">
+                <input type="time" formControlName="in_time">
+              </div>
+              
+            </div>
+            <div class="row">
+              <div class="col-sm-6">
+                <p>Off Time</p>
+              </div>
+              <div class="col-sm-6">
+                <input type="time" formControlName="out_time">
+              </div>
+              
+            </div>
+            <div class="row">
+              <div class="col-sm-6">
+                <p> Reason</p>
+              </div>
+              <div class="col-sm-6">
+                <input type="text" formControlName="reason"><br>
+              </div>
+              
+
+            </div>
+            <br />
+            <div class="row">
+              <div class="col-md-4">
+                <button type="button" class="btn btn-primary" (click)="check(id)">Check</button>
+              </div>
+              <div class="col-md-4"></div>
+              <div class="col-md-4">
+                <button type="button" class="btn  btn-primary" (click)="reservation(id)">Reservation</button>
+              </div>
+
+
+
+            </div>
+
+          </form>
+        </div>
+      </div>
+    </div>
+
+  </div>
+ 
+</div>
+
+
+
+
+
+

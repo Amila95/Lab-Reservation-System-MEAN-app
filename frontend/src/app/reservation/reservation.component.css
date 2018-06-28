@@ -1,0 +1,18 @@
+.box1 {
+  width: 350px;
+  bottom: 6000px;
+  text-align: justify;
+  background-color: #f1f1f1;
+  border: 1px solid blue;
+  color: royalblue;
+  font-family: verdana
+}
+.box {
+  width: 600px;
+  bottom: 400px;
+  text-align: justify;
+  background-color: #f1f1f1;
+  border: 1px solid blue;
+  color: royalblue;
+  font-family: verdana
+}
