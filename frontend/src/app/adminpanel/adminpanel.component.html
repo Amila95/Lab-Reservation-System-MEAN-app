@@ -28,20 +28,20 @@
       <button class="btn btn-primary" type="button" onclick="window.print()">Download</button>
     </div>
   </div>
-  
+
 </form>
 <br />
 <div *ngFor="let lab of messageList">
   <div class=" box">
     <ul class="list-group">
-      
+
         <li class="list-group-item">
-          lab In : {{lab.in_time}}<br />
-          lab Out: {{lab.out_time}}<br />
+
+          Time Slot: {{lab.time}}<br />
           Reason: {{lab.reason}}
 
         </li>
-     
+
 
 
 

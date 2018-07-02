@@ -99,15 +99,22 @@ router.get('/logout', function (req, res, next) {
     //console.log("btjt");
 })*/
 
-router.get('/resavation_checkbydate/:id', function (req, res, next) {
-    console.log(req.params.id);
+router.post('/resavation_checkbydate', function (req, res, next) {
+    //console.log(req.params.id);
 
-    Reservation.where("res_date").equals(req.params.id)
+    var reservation = new Reservation({
+        lab_name: req.body.lab_name,
+        res_date: req.body.date
+    });
+
+    //Reservation.where("res_date" , "lab_name").equals(reservation.res_date, reservation.lab_name)
+    Reservation.find({ res_date: reservation.res_date, lab_name: reservation.lab_name })
         .then(doc => {
-            if (!doc) { return res.status(404).end(); }
-            return res.status(200).json(doc);
-        })
-        .catch(err => next(err));
+        if (!doc) { return res.status(404).end(); }
+    return res.status(200).json(doc);
+
+})
+.catch(err => next(err));
     
     
 })
@@ -171,12 +178,30 @@ router.post('/reservation', function (req, res, next) {
         user_id: req.user.id,
         lab_name: req.body.lab_name,
         res_date: req.body.date,
-        in_time: req.body.in_time,
-        out_time: req.body.out_time,
+        //in_time: req.body.in_time,
+        //out_time: req.body.out_time,
+        time: req.body.time,
         reason: req.body.reason,
 
     });
-    gap = parseInt(reservation.out_time) - parseInt(reservation.in_time);
+    console.log(reservation);
+    try{
+        Reservation.find({lab_name:reservation.lab_name,res_date:reservation.res_date,time:reservation.time},function (err,docs) {
+            if(!docs.length){
+                doc = reservation.save();
+                // console.log(reservation);
+                return res.status(201).json(doc);
+            }
+            else{
+                return res.status(301).json(err);
+            }
+
+        })
+
+    } catch (err) {
+        return res.status(501).json(err);
+    }
+    /*gap = parseInt(reservation.out_time) - parseInt(reservation.in_time);
     
     
     try {
@@ -262,7 +287,7 @@ router.post('/reservation', function (req, res, next) {
     }
     catch (err) {
         return res.status(501).json(err);
-    }
+    }*/
     
 
     
@@ -273,20 +298,31 @@ router.post('/reservation', function (req, res, next) {
 router.post('/check', function (req, res, next) {
 
     var reservation = new Reservation({
-        //user_id : user._id,
+        user_id: req.user.id,
         lab_name: req.body.lab_name,
         res_date: req.body.date,
-        in_time: req.body.in_time,
-        out_time: req.body.out_time,
+        //in_time: req.body.in_time,
+        //out_time: req.body.out_time,
+        time: req.body.time,
         reason: req.body.reason,
 
     });
-    gap = parseInt(reservation.out_time) - parseInt(reservation.in_time);
+    console.log(reservation);
 
 
     try {
+        Reservation.find({lab_name:reservation.lab_name,res_date:reservation.res_date,time:reservation.time},function (err,docs) {
+            if(!docs.length){
+                //doc = reservation.save();
+                // console.log(reservation);
+                return res.status(201).json();
+            }
+            else{
+                return res.status(301).json(err);
+            }
 
-        Reservation.find({ lab_name: reservation.lab_name, res_date: reservation.res_date, in_time: reservation.in_time }, function (err, docs) {
+        })
+        /*Reservation.find({ lab_name: reservation.lab_name, res_date: reservation.res_date, time: reservation.time }, function (err, docs) {
             var done_reservation = 0;
             if (!docs.length) {
                 if (gap > 1) {
@@ -359,7 +395,7 @@ router.post('/check', function (req, res, next) {
                 return res.status(301).json(err);
 
             }
-        })
+        })*/
 
     }
     catch (err) {

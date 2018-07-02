@@ -34,7 +34,7 @@ export class UserService {
       headers: new HttpHeaders().append('Content-Type', 'application/json')
     })
       .pipe(map(res => res));
-    
+
 
   }
 
@@ -45,9 +45,13 @@ export class UserService {
       headers: new HttpHeaders().append('Content-Type', 'application/json')
     });
   }
-  resavation_checkbydate(id) {
-    return this._http.get('http://127.0.0.1:3000/users/resavation_checkbydate/' + id)
-      .pipe(map(res => res));
+
+  resavation_checkbydate(body:any) {
+    return this._http.post('http://127.0.0.1:3000/users/resavation_checkbydate' , body, {
+      observe: 'body',
+      withCredentials: true,
+      headers: new HttpHeaders().append('Content-Type', 'application/json')
+    }).pipe(map(res => res));
   }
 
   logout(body: any) {

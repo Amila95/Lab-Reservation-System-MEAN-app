@@ -1,8 +1,8 @@
 <div class="container">
   <div class="row">
-    
+
     <div class="col-sm-8">
-      
+
         <br />
         <div class="row">
           <div class="col-xs-12 col-12 col-md-4 form-group">
@@ -22,29 +22,31 @@
 
 
 
-        <div *ngFor="let lab of messageList">
+        <div *ngFor="let lab of messageList ">
 
           <div class=" box">
             <ul class="list-group">
-              <span *ngIf="lab.lab_name ==id">
+
                 <li class="list-group-item">
-                  In Time : {{lab.in_time}}<br />
-                  Off Time: {{lab.out_time}}<br />
+
+                  Time Slot: {{lab.time}}<br />
                   Reason: {{lab.reason}}
 
                 </li>
-              </span>
+
 
 
 
 
             </ul>
-            
+
           </div>
+
           <br />
 
-        
+
       </div>
+
     </div>
     <div class="col-sm-4">
       <br />
@@ -63,26 +65,28 @@
               <div class="col-sm-6">
                 <input formControlName="date" type="date">
               </div>
-              
+
             </div>
             <div class="row">
               <div class="col-sm-6">
-                <p>In Time</p>
+                <p>Time Slot</p>
               </div>
               <div class="col-sm-6">
-                <input type="time" formControlName="in_time">
+                <select name="time" formControlName="time">
+                  <option value="8AM to 9AM">8AM to 9AM</option>
+                  <option value="9AM to 10AM">9AM to 10AM</option>
+                  <option value="10AM to 11AM">10AM to 11AM</option>
+                  <option value="11AM to 12PM">11AM to 12PM</option>
+                  <option value="12PM to 1PM">12PM to 1PM</option>
+                  <option value="1PM to 2PM">1PM to 2PM</option>
+                  <option value="2PM to 3PM">2PM to 3PM</option>
+                  <option value="3PM to 4PM">3PM to 4PM</option>
+                  <option value="4PM to 5PM">4PM to 5PM</option>
+                </select>
               </div>
-              
+
             </div>
-            <div class="row">
-              <div class="col-sm-6">
-                <p>Off Time</p>
-              </div>
-              <div class="col-sm-6">
-                <input type="time" formControlName="out_time">
-              </div>
-              
-            </div>
+
             <div class="row">
               <div class="col-sm-6">
                 <p> Reason</p>
@@ -90,7 +94,7 @@
               <div class="col-sm-6">
                 <input type="text" formControlName="reason"><br>
               </div>
-              
+
 
             </div>
             <br />
@@ -113,7 +117,7 @@
     </div>
 
   </div>
- 
+
 </div>
 
 
