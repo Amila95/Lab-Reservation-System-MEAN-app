@@ -22,11 +22,11 @@ passport.use('local', new LocalStrategy({
 
 
 passport.serializeUser(function (user, done) {
-    done(null, user._id);
+    done(null, user.username);
 });
 
 passport.deserializeUser(function (id, done) {
-    User.findById(id, function (err, user) {
+    User.findOne({username:id}, function (err, user) {
         done(err, user);
     });
 });

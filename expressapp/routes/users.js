@@ -111,6 +111,7 @@ router.post('/resavation_checkbydate', function (req, res, next) {
     Reservation.find({ res_date: reservation.res_date, lab_name: reservation.lab_name })
         .then(doc => {
         if (!doc) { return res.status(404).end(); }
+        console.log(doc);
     return res.status(200).json(doc);
 
 })
@@ -173,9 +174,9 @@ router.post('/get_details', function (req, res, next) {
 
 router.post('/reservation', function (req, res, next) {
     //const user_id = req._id;
-    console.log(req.user.id);
+    console.log(req.user.username);
     var reservation = new Reservation({
-        user_id: req.user.id,
+        username: req.user.username,
         lab_name: req.body.lab_name,
         res_date: req.body.date,
         //in_time: req.body.in_time,

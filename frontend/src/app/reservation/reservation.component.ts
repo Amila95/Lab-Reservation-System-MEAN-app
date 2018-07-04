@@ -44,9 +44,9 @@ export class ReservationComponent implements OnInit {
     this.resavation_checkbydate(this.pickdate)
   }
 
-  reservation(id) {
-    this.lab_name = id;
-    //console.log(this.lab_name)
+  reservation(lab_name) {
+    this.lab_name = lab_name;
+    console.log(this.lab_name)
     if (!this.ReservationForm.valid) {
       console.log('Invalid Form');
       this.toastr.success('', 'Invalid Form');
@@ -63,7 +63,7 @@ export class ReservationComponent implements OnInit {
 
 
     }
-    //console.log(JSON.stringify(this.ResevationDetails));
+    console.log(JSON.stringify(this.ResevationDetails));
 
     this._userService.resavation(JSON.stringify(this.ResevationDetails))
       .subscribe(

@@ -2,12 +2,224 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40ae720f-605f-4572-8266-d5fbe57a93f8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/expressapp/models/resavation.js" afterPath="$PROJECT_DIR$/expressapp/models/resavation.js" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/accepts/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/accepts/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/align-text/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/align-text/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/amdefine/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/amdefine/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/array-flatten/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/array-flatten/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/async/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/async/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/basic-auth/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/basic-auth/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/lib/binding/bcrypt_lib.node" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/lib/binding/bcrypt_lib.node" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/lib/promises.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/abbrev/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/abbrev/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/ansi-regex/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/ansi-regex/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/aproba/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/aproba/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/are-we-there-yet/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/are-we-there-yet/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/balanced-match/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/balanced-match/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/brace-expansion/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/brace-expansion/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/chownr/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/chownr/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/code-point-at/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/code-point-at/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/concat-map/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/concat-map/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/console-control-strings/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/console-control-strings/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/core-util-is/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/core-util-is/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/debug/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/debug/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/deep-extend/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/deep-extend/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/delegates/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/delegates/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/detect-libc/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/detect-libc/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/fs-minipass/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/fs-minipass/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/fs.realpath/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/fs.realpath/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/gauge/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/gauge/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/glob/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/glob/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/has-unicode/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/has-unicode/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/iconv-lite/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/iconv-lite/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/ignore-walk/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/ignore-walk/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/inflight/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/inflight/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/inherits/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/ini/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/ini/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/is-fullwidth-code-point/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/is-fullwidth-code-point/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/isarray/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/isarray/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/minimatch/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/minimatch/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/minimist/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/minimist/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/minipass/node_modules/yallist/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/minipass/node_modules/yallist/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/minipass/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/minipass/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/minizlib/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/minizlib/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/mkdirp/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/mkdirp/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/ms/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/ms/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/needle/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/needle/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/node-pre-gyp/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/node-pre-gyp/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/nopt/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/nopt/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/npm-bundled/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/npm-bundled/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/npm-packlist/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/npm-packlist/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/npmlog/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/npmlog/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/number-is-nan/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/number-is-nan/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/object-assign/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/object-assign/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/once/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/once/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/os-homedir/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/os-homedir/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/os-tmpdir/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/os-tmpdir/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/osenv/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/osenv/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/path-is-absolute/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/path-is-absolute/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/process-nextick-args/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/process-nextick-args/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/rc/node_modules/minimist/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/rc/node_modules/minimist/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/rc/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/rc/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/readable-stream/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/readable-stream/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/rimraf/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/rimraf/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/safe-buffer/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/safe-buffer/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/safer-buffer/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/safer-buffer/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/sax/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/sax/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/semver/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/semver/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/set-blocking/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/set-blocking/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/signal-exit/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/signal-exit/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/string-width/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/string-width/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/string_decoder/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/string_decoder/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/strip-ansi/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/strip-ansi/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/strip-json-comments/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/strip-json-comments/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/tar/node_modules/yallist/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/tar/node_modules/yallist/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/tar/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/tar/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/util-deprecate/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/util-deprecate/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/wide-align/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/wide-align/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/wrappy/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/node_modules/wrappy/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bcrypt/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bluebird/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bluebird/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/body-parser/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/body-parser/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bson/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bson/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/buffer-equal-constant-time/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/buffer-equal-constant-time/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/bytes/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/bytes/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/camelcase/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/camelcase/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/center-align/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/center-align/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/cliui/node_modules/wordwrap/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/cliui/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/cliui/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/content-disposition/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/content-disposition/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/content-type/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/content-type/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/cookie-parser/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/cookie-parser/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/cookie-signature/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/cookie-signature/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/cookie/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/cookie/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/cors/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/cors/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/crc/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/crc/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/debug/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/debug/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/decamelize/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/decamelize/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/depd/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/depd/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/destroy/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/destroy/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/ecdsa-sig-formatter/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/ecdsa-sig-formatter/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/ee-first/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/ee-first/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/encodeurl/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/encodeurl/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/escape-html/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/escape-html/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/etag/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/etag/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/express-session/node_modules/utils-merge/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/express-session/node_modules/utils-merge/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/express-session/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/express-session/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/express/node_modules/qs/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/express/node_modules/qs/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/express/node_modules/setprototypeof/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/express/node_modules/setprototypeof/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/express/node_modules/statuses/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/express/node_modules/statuses/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/express/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/express/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/finalhandler/node_modules/statuses/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/finalhandler/node_modules/statuses/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/finalhandler/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/finalhandler/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/foreachasync/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/foreachasync/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/forwarded/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/forwarded/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/fresh/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/fresh/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/handlebars/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/handlebars/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/hbs/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/hbs/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/http-errors/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/http-errors/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/iconv-lite/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/iconv-lite/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/iconv-lite/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/inherits/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/ipaddr.js/lib/ipaddr.js.d.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/ipaddr.js/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/ipaddr.js/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/is-buffer/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/is-buffer/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/jsonwebtoken/node_modules/ms/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/jsonwebtoken/node_modules/ms/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/jsonwebtoken/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/jsonwebtoken/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/jwa/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/jwa/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/jws/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/jws/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/kareem/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/kareem/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/kind-of/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/kind-of/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/lazy-cache/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/lazy-cache/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/lodash.get/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/lodash.get/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/lodash.includes/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/lodash.includes/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/lodash.isboolean/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/lodash.isboolean/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/lodash.isinteger/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/lodash.isinteger/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/lodash.isnumber/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/lodash.isnumber/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/lodash.isplainobject/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/lodash.isplainobject/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/lodash.isstring/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/lodash.isstring/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/lodash.once/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/lodash.once/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/lodash/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/lodash/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/longest/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/longest/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/media-typer/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/media-typer/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/merge-descriptors/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/merge-descriptors/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/methods/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/methods/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mime-db/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/mime-db/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mime-types/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/mime-types/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mime/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/mime/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/minimist/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/minimist/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mongodb-core/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/mongodb-core/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mongodb-core/yarn.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mongodb/lib/metadata.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mongodb/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/mongodb/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mongoose-legacy-pluralize/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/mongoose-legacy-pluralize/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mongoose/node_modules/async/internal/concat.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mongoose/node_modules/async/internal/doSeries.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mongoose/node_modules/async/internal/rest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mongoose/node_modules/async/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/mongoose/node_modules/async/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mongoose/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/mongoose/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/morgan/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/morgan/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mpath/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mpath/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/mpath/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mquery/node_modules/sliced/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/mquery/node_modules/sliced/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/mquery/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/mquery/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/ms/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/ms/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/nan/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/nan/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/negotiator/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/negotiator/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/object-assign/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/object-assign/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/on-finished/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/on-finished/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/on-headers/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/on-headers/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/optimist/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/optimist/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/parseurl/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/parseurl/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/passport-local/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/passport-local/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/passport-strategy/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/passport-strategy/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/passport/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/passport/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/path-to-regexp/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/path-to-regexp/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/pause/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/pause/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/proxy-addr/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/proxy-addr/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/qs/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/qs/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/random-bytes/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/random-bytes/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/range-parser/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/range-parser/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/raw-body/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/raw-body/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/regexp-clone/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/regexp-clone/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/repeat-string/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/repeat-string/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/require_optional/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/require_optional/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/resolve-from/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/resolve-from/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/right-align/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/right-align/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/safe-buffer/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/safe-buffer/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/safer-buffer/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/safer-buffer/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/semver/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/semver/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/send/node_modules/statuses/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/send/node_modules/statuses/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/send/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/send/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/serve-favicon/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/serve-favicon/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/serve-static/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/serve-static/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/setprototypeof/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/setprototypeof/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/sliced/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/sliced/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/source-map/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/source-map/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/statuses/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/statuses/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/type-is/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/type-is/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/uglify-js/node_modules/source-map/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/uglify-js/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/uglify-js/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/uglify-to-browserify/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/uglify-to-browserify/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/uid-safe/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/uid-safe/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/unpipe/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/unpipe/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/utils-merge/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/utils-merge/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/utils-merge/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/vary/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/vary/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/walk/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/walk/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/window-size/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/window-size/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/wordwrap/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/wordwrap/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/node_modules/yargs/package.json" afterPath="$PROJECT_DIR$/expressapp/node_modules/yargs/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/package-lock.json" afterPath="$PROJECT_DIR$/expressapp/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/package.json" afterPath="$PROJECT_DIR$/expressapp/package.json" />
+      <change beforePath="$PROJECT_DIR$/expressapp/passport-config.js" afterPath="$PROJECT_DIR$/expressapp/passport-config.js" />
       <change beforePath="$PROJECT_DIR$/expressapp/routes/users.js" afterPath="$PROJECT_DIR$/expressapp/routes/users.js" />
       <change beforePath="$PROJECT_DIR$/frontend/src/app/adminpanel/adminpanel.component.html" afterPath="$PROJECT_DIR$/frontend/src/app/adminpanel/adminpanel.component.html" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.component.html" afterPath="$PROJECT_DIR$/frontend/src/app/app.component.html" />
       <change beforePath="$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.html" afterPath="$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.html" />
       <change beforePath="$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.ts" afterPath="$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.ts" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/user.service.ts" afterPath="$PROJECT_DIR$/frontend/src/app/user.service.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,13 +236,111 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="reservation.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.ts">
+      <file leaf-file-name="users.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/expressapp/routes/users.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1592">
-              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            <state relative-caret-position="272">
+              <caret line="193" column="37" lean-forward="false" selection-start-line="193" selection-start-column="37" selection-end-line="207" selection-end-column="9" />
               <folding>
-                <element signature="e#0#50#0" expanded="true" />
+                <element signature="e#427#453#0" expanded="false" />
+                <element signature="n#!!block;n#addToDB#0" expanded="false" />
+                <element signature="e#869#1391#0" expanded="false" />
+                <element signature="e#1939#2056#0" expanded="false" />
+                <element signature="e#2107#2192#0" expanded="false" />
+                <element signature="e#2808#3332#0" expanded="false" />
+                <element signature="e#3387#3672#0" expanded="false" />
+                <element signature="e#3731#4016#0" expanded="false" />
+                <element signature="e#4074#4364#0" expanded="false" />
+                <element signature="e#4421#4906#0" expanded="false" />
+                <element signature="e#9270#12990#0" expanded="false" />
+                <element signature="n#!!block;n#verifyToken#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resavation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/expressapp/models/resavation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="passport-config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/expressapp/passport-config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/expressapp/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/expressapp/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/expressapp/models/user.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reservation.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adminpanel.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/app/adminpanel/adminpanel.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="78" lean-forward="false" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
+              <folding>
+                <element signature="e#917#923#0" expanded="true" />
+                <element signature="e#935#941#0" expanded="true" />
+                <element signature="e#947#953#0" expanded="true" />
+                <element signature="e#971#977#0" expanded="true" />
+                <element signature="e#983#989#0" expanded="true" />
+                <element signature="e#1043#1049#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,7 +349,7 @@
       <file leaf-file-name="user.service.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/src/app/user.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
+            <state relative-caret-position="408">
               <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding>
                 <element signature="n#!!block;n#register#0;n#UserService#0" expanded="false" />
@@ -59,38 +369,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="users.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/expressapp/routes/users.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!block;n#addToDB#0" expanded="false" />
-                <element signature="e#869#1391#0" expanded="false" />
-                <element signature="e#1939#2056#0" expanded="false" />
-                <element signature="e#2107#2192#0" expanded="false" />
-                <element signature="e#3361#3646#0" expanded="false" />
-                <element signature="e#3705#3990#0" expanded="false" />
-                <element signature="e#4048#4338#0" expanded="false" />
-                <element signature="e#4937#9178#0" expanded="false" />
-                <element signature="e#9231#12951#0" expanded="false" />
-                <element signature="n#!!block;n#isValidUser#0" expanded="false" />
-                <element signature="n#!!block;n#verifyToken#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reservation.component.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="83" column="55" lean-forward="false" selection-start-line="83" selection-start-column="55" selection-end-line="83" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -99,12 +377,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/frontend/src/app/user.service.ts" />
+        <option value="$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.html" />
+        <option value="$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.ts" />
+        <option value="$PROJECT_DIR$/expressapp/passport-config.js" />
+        <option value="$PROJECT_DIR$/expressapp/routes/users.js" />
         <option value="$PROJECT_DIR$/expressapp/models/resavation.js" />
         <option value="$PROJECT_DIR$/frontend/src/app/adminpanel/adminpanel.component.html" />
-        <option value="$PROJECT_DIR$/frontend/src/app/user.service.ts" />
-        <option value="$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.ts" />
-        <option value="$PROJECT_DIR$/expressapp/routes/users.js" />
-        <option value="$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.html" />
+        <option value="$PROJECT_DIR$/frontend/src/app/app.component.html" />
       </list>
     </option>
   </component>
@@ -118,7 +398,7 @@
     <handled-path value="$PROJECT_DIR$/expressapp/node_modules" />
     <handled-path value="$PROJECT_DIR$/frontend/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -140,7 +420,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -148,6 +427,17 @@
             <path>
               <item name="Lab-Reservation-System-MEAN-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lab-Reservation-System-MEAN-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab-Reservation-System-MEAN-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab-Reservation-System-MEAN-app" type="462c0819:PsiDirectoryNode" />
+              <item name="expressapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab-Reservation-System-MEAN-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab-Reservation-System-MEAN-app" type="462c0819:PsiDirectoryNode" />
+              <item name="expressapp" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Lab-Reservation-System-MEAN-app" type="b2602c69:ProjectViewProjectNode" />
@@ -171,6 +461,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,26 +501,30 @@
       <workItem from="1530416300710" duration="12972000" />
       <workItem from="1530437956625" duration="8407000" />
       <workItem from="1530451376054" duration="6800000" />
+      <workItem from="1530526640588" duration="1427000" />
+      <workItem from="1530677452386" duration="55000" />
+      <workItem from="1530685258880" duration="3722000" />
+      <workItem from="1530699472548" duration="83000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29551000" />
+    <option name="totallyTimeSpent" value="34838000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -252,17 +547,299 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.ts">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="47" column="4" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressapp/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3026">
+          <caret line="178" column="16" lean-forward="false" selection-start-line="178" selection-start-column="16" selection-end-line="178" selection-end-column="16" />
+          <folding>
+            <element signature="e#427#453#0" expanded="false" />
+            <element signature="n#!!block;n#addToDB#0" expanded="false" />
+            <element signature="e#869#1391#0" expanded="false" />
+            <element signature="e#1939#2056#0" expanded="false" />
+            <element signature="e#2107#2192#0" expanded="false" />
+            <element signature="e#2808#3332#0" expanded="false" />
+            <element signature="e#3387#3672#0" expanded="false" />
+            <element signature="e#3731#4016#0" expanded="false" />
+            <element signature="e#4074#4364#0" expanded="false" />
+            <element signature="e#4421#4906#0" expanded="false" />
+            <element signature="e#9270#12990#0" expanded="false" />
+            <element signature="n#!!block;n#verifyToken#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressapp/models/resavation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressapp/passport-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressapp/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressapp/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressapp/models/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/adminpanel/adminpanel.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="78" lean-forward="true" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
+          <folding>
+            <element signature="e#917#923#0" expanded="true" />
+            <element signature="e#935#941#0" expanded="true" />
+            <element signature="e#947#953#0" expanded="true" />
+            <element signature="e#971#977#0" expanded="true" />
+            <element signature="e#983#989#0" expanded="true" />
+            <element signature="e#1043#1049#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#0#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/user.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#register#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#login#0;n#UserService#0" expanded="false" />
+            <element signature="e#912#1047#0" expanded="false" />
+            <element signature="n#!!block;n#resavation#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#logout#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#check#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#loggedIn#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#getToken#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#logoutUser#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#labs#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#labstype#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#labscon#0;n#UserService#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressapp/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="113" column="25" lean-forward="false" selection-start-line="113" selection-start-column="25" selection-end-line="113" selection-end-column="25" />
+          <folding>
+            <element signature="e#427#453#0" expanded="false" />
+            <element signature="n#!!block;n#addToDB#0" expanded="false" />
+            <element signature="e#869#1391#0" expanded="false" />
+            <element signature="e#1939#2056#0" expanded="false" />
+            <element signature="e#2107#2192#0" expanded="false" />
+            <element signature="e#2808#3332#0" expanded="false" />
+            <element signature="e#3387#3672#0" expanded="false" />
+            <element signature="e#3731#4016#0" expanded="false" />
+            <element signature="e#4074#4364#0" expanded="false" />
+            <element signature="e#4421#4906#0" expanded="false" />
+            <element signature="e#9270#12990#0" expanded="false" />
+            <element signature="n#!!block;n#verifyToken#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="92" lean-forward="false" selection-start-line="106" selection-start-column="92" selection-end-line="106" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/user.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#register#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#login#0;n#UserService#0" expanded="false" />
+            <element signature="e#912#1047#0" expanded="false" />
+            <element signature="n#!!block;n#resavation#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#logout#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#check#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#loggedIn#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#getToken#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#logoutUser#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#labs#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#labstype#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#labscon#0;n#UserService#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressapp/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="113" column="25" lean-forward="false" selection-start-line="113" selection-start-column="25" selection-end-line="113" selection-end-column="25" />
+          <folding>
+            <element signature="e#427#453#0" expanded="false" />
+            <element signature="n#!!block;n#addToDB#0" expanded="false" />
+            <element signature="e#869#1391#0" expanded="false" />
+            <element signature="e#1939#2056#0" expanded="false" />
+            <element signature="e#2107#2192#0" expanded="false" />
+            <element signature="e#2808#3332#0" expanded="false" />
+            <element signature="e#3387#3672#0" expanded="false" />
+            <element signature="e#3731#4016#0" expanded="false" />
+            <element signature="e#4074#4364#0" expanded="false" />
+            <element signature="e#4421#4906#0" expanded="false" />
+            <element signature="e#9270#12990#0" expanded="false" />
+            <element signature="n#!!block;n#verifyToken#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="92" lean-forward="false" selection-start-line="106" selection-start-column="92" selection-end-line="106" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/user.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#register#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#login#0;n#UserService#0" expanded="false" />
+            <element signature="e#912#1047#0" expanded="false" />
+            <element signature="n#!!block;n#resavation#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#logout#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#check#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#loggedIn#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#getToken#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#logoutUser#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#labs#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#labstype#0;n#UserService#0" expanded="false" />
+            <element signature="n#!!block;n#labscon#0;n#UserService#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressapp/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding>
+            <element signature="e#427#453#0" expanded="false" />
+            <element signature="n#!!block;n#addToDB#0" expanded="false" />
+            <element signature="e#869#1391#0" expanded="false" />
+            <element signature="e#1939#2056#0" expanded="false" />
+            <element signature="e#2107#2192#0" expanded="false" />
+            <element signature="e#2808#3332#0" expanded="false" />
+            <element signature="e#3387#3672#0" expanded="false" />
+            <element signature="e#3731#4016#0" expanded="false" />
+            <element signature="e#4074#4364#0" expanded="false" />
+            <element signature="e#4421#4906#0" expanded="false" />
+            <element signature="e#9270#12990#0" expanded="false" />
+            <element signature="n#!!block;n#verifyToken#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="55" lean-forward="false" selection-start-line="83" selection-start-column="55" selection-end-line="83" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -293,16 +870,17 @@
         <state relative-caret-position="3740">
           <caret line="302" column="29" lean-forward="false" selection-start-line="302" selection-start-column="29" selection-end-line="302" selection-end-column="29" />
           <folding>
+            <element signature="e#427#453#0" expanded="false" />
             <element signature="n#!!block;n#addToDB#0" expanded="false" />
             <element signature="e#869#1391#0" expanded="false" />
             <element signature="e#1939#2056#0" expanded="false" />
             <element signature="e#2107#2192#0" expanded="false" />
-            <element signature="e#3361#3646#0" expanded="false" />
-            <element signature="e#3705#3990#0" expanded="false" />
-            <element signature="e#4048#4338#0" expanded="false" />
-            <element signature="e#4937#9178#0" expanded="false" />
-            <element signature="e#9231#12951#0" expanded="false" />
-            <element signature="n#!!block;n#isValidUser#0" expanded="false" />
+            <element signature="e#2808#3332#0" expanded="false" />
+            <element signature="e#3387#3672#0" expanded="false" />
+            <element signature="e#3731#4016#0" expanded="false" />
+            <element signature="e#4074#4364#0" expanded="false" />
+            <element signature="e#4421#4906#0" expanded="false" />
+            <element signature="e#9270#12990#0" expanded="false" />
             <element signature="n#!!block;n#verifyToken#0" expanded="false" />
           </folding>
         </state>
@@ -312,7 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -328,7 +905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="72" lean-forward="false" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -337,7 +913,7 @@
         <state relative-caret-position="850">
           <caret line="56" column="8" lean-forward="false" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="10" />
           <folding>
-            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#0#50#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -367,7 +943,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -376,16 +951,17 @@
         <state relative-caret-position="3196">
           <caret line="188" column="49" lean-forward="false" selection-start-line="188" selection-start-column="49" selection-end-line="188" selection-end-column="49" />
           <folding>
+            <element signature="e#427#453#0" expanded="false" />
             <element signature="n#!!block;n#addToDB#0" expanded="false" />
             <element signature="e#869#1391#0" expanded="false" />
             <element signature="e#1939#2056#0" expanded="false" />
             <element signature="e#2107#2192#0" expanded="false" />
-            <element signature="e#3361#3646#0" expanded="false" />
-            <element signature="e#3705#3990#0" expanded="false" />
-            <element signature="e#4048#4338#0" expanded="false" />
-            <element signature="e#4937#9178#0" expanded="false" />
-            <element signature="e#9231#12951#0" expanded="false" />
-            <element signature="n#!!block;n#isValidUser#0" expanded="false" />
+            <element signature="e#2808#3332#0" expanded="false" />
+            <element signature="e#3387#3672#0" expanded="false" />
+            <element signature="e#3731#4016#0" expanded="false" />
+            <element signature="e#4074#4364#0" expanded="false" />
+            <element signature="e#4421#4906#0" expanded="false" />
+            <element signature="e#9270#12990#0" expanded="false" />
             <element signature="n#!!block;n#verifyToken#0" expanded="false" />
           </folding>
         </state>
@@ -395,7 +971,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="72" lean-forward="false" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -407,63 +982,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/expressapp/models/resavation.js">
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="47" column="4" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressapp/models/user.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/expressapp/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="72" lean-forward="false" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="79" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressapp/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressapp/passport-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressapp/models/resavation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/app/adminpanel/adminpanel.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="17" selection-end-column="14" />
+        <state relative-caret-position="680">
+          <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/expressapp/routes/users.js">
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="20" column="78" lean-forward="false" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
           <folding>
-            <element signature="n#!!block;n#addToDB#0" expanded="false" />
-            <element signature="e#869#1391#0" expanded="false" />
-            <element signature="e#1939#2056#0" expanded="false" />
-            <element signature="e#2107#2192#0" expanded="false" />
-            <element signature="e#3361#3646#0" expanded="false" />
-            <element signature="e#3705#3990#0" expanded="false" />
-            <element signature="e#4048#4338#0" expanded="false" />
-            <element signature="e#4937#9178#0" expanded="false" />
-            <element signature="e#9231#12951#0" expanded="false" />
-            <element signature="n#!!block;n#isValidUser#0" expanded="false" />
-            <element signature="n#!!block;n#verifyToken#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1592">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#917#923#0" expanded="true" />
+            <element signature="e#935#941#0" expanded="true" />
+            <element signature="e#947#953#0" expanded="true" />
+            <element signature="e#971#977#0" expanded="true" />
+            <element signature="e#983#989#0" expanded="true" />
+            <element signature="e#1043#1049#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/app/user.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
+        <state relative-caret-position="408">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding>
             <element signature="n#!!block;n#register#0;n#UserService#0" expanded="false" />
@@ -482,11 +1084,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/reservation/reservation.component.html">
+    <entry file="file://$PROJECT_DIR$/expressapp/routes/users.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="83" column="55" lean-forward="false" selection-start-line="83" selection-start-column="55" selection-end-line="83" selection-end-column="55" />
-          <folding />
+        <state relative-caret-position="272">
+          <caret line="193" column="37" lean-forward="false" selection-start-line="193" selection-start-column="37" selection-end-line="207" selection-end-column="9" />
+          <folding>
+            <element signature="e#427#453#0" expanded="false" />
+            <element signature="n#!!block;n#addToDB#0" expanded="false" />
+            <element signature="e#869#1391#0" expanded="false" />
+            <element signature="e#1939#2056#0" expanded="false" />
+            <element signature="e#2107#2192#0" expanded="false" />
+            <element signature="e#2808#3332#0" expanded="false" />
+            <element signature="e#3387#3672#0" expanded="false" />
+            <element signature="e#3731#4016#0" expanded="false" />
+            <element signature="e#4074#4364#0" expanded="false" />
+            <element signature="e#4421#4906#0" expanded="false" />
+            <element signature="e#9270#12990#0" expanded="false" />
+            <element signature="n#!!block;n#verifyToken#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,7 +1,7 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 var schema = new Schema({
-    user_id: { type: String, require: true },
+    username: { type: String, require: true },
     lab_name: { type: String, require: true },
     res_date: { type: String, require: true },
     time: { type: String, require: true },
